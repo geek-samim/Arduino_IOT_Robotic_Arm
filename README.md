@@ -1,5 +1,21 @@
 # Arduino_IOT_Robotic_Arm
-Hello there! This is my first robotic arm with the following features (until now):
+# OBJECTIVE: To build an IoT based robotic arm having 5 Degrees of freedom( Including gripper). 
+
+Arduino is used as a control device for this robotic arm. Control Interface is built in Blynk app and forward kinematics are implemented in Matlab. 
+
+
+Electronic Components you need for this project are
+
+# 1.Arduino Board x 1
+
+# 2. Led’s x 2
+
+# 3. Resistors, 100 ohm  and 150 ohm  x 2
+
+# 4. Servo motors x 1
+
+# 5. 5V charger, min 2.5 A x 1
+# Hello there! This is my first robotic arm with the following features (until now):
 
 5DOF robot, actually 4 if we exclude the gripper
 the brain is an Arduino Yun with IoT capabilities
